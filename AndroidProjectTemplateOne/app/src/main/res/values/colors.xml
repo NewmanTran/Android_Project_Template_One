@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_theme_color">#ffffff</color>
+    <color name="main_color">#ffffff</color>
+    <color name="img_bg_color">#dbdbdb</color>
+</resources>
